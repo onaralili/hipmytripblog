@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Blog by <a href=\"https://hipmytrip.com/\">Hip My Trip</a>. <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Hip My Trip celebrates travel by creating custom unique map art from significant trip routes, as well as designs geography inspired home decor and apparel using modern, creative and sometimes unexpected aesthetics. This blog is a space to share travel tips and stories. If you would like to have your story shared, please e-mail me your name, handle(s) and website(s) at: < a href=\"mailto:hello@hipmytrip.com\">hello@hipmytrip.com<a>."
+  about     = "Hip My Trip celebrates travel by creating custom unique map art from significant trip routes, as well as designs geography inspired home decor and apparel using modern, creative and sometimes unexpected aesthetics. This blog is a space to share travel tips and stories. If you would like to have your story shared, please e-mail me your name, handle(s) and website(s) at: <a href=\"mailto:hello@hipmytrip.com\">hello@hipmytrip.com<a>."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -152,6 +152,7 @@ canonifyURLs = true
 [social]
   # Coding Communities
   github           = "jpescador/hugo-future-imperfect"
+    etsy             = "/shop/hipmytrip"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -193,6 +194,5 @@ canonifyURLs = true
   googlescholar    = ""
   orcid            = ""
   researchgate     = "example"
-  etsy             = ""
   # Email
   email            = "example"
