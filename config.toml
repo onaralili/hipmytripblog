@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Hip My Trip blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Tell your story with a custom art map. Hip My Trip uniquely displays your route like the work of art it is. Each map is custom designed in Rome."
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Hip My Trip"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -87,11 +87,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Hip My Trip"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "Blog by <a href=\"https://hipmytrip.com/\">Hip My Trip</a>. <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Hip My Trip celebrates travel by creating custom unique map art from significant trip routes, as well as designs geography inspired home decor and apparel using modern, creative and sometimes unexpected aesthetics. This blog is a space to share travel tips and stories. If you would like to have your story shared, please e-mail me your name, handle(s) and website(s) at: < a href=\"mailto:hello@hipmytrip.com\">hello@hipmytrip.com<a>."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -102,7 +102,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "hip my trip logo"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -193,5 +193,6 @@ canonifyURLs = true
   googlescholar    = ""
   orcid            = ""
   researchgate     = "example"
+  etsy             = ""
   # Email
   email            = "example"
